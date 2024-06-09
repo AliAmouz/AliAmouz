@@ -1,15 +1,15 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm AliAmouz, a passionate developer interested in web development, AI, and blockchain technology.
+Welcome to my GitHub profile! I'm Ali Amouz, a passionate developer interested in web development, AI, blockchain technology and cybersecurity.
 
 ## About Me
 
 - 🔭 I’m currently working on: [password-checker](https://github.com/AliAmouz/password-checker)
 - 🌱 I’m currently learning: PHP and React Native
 - 👯 I’m looking to collaborate on: Open source projects
-- 💬 Ask me about: Python, C, and Web 3.0
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- ⚡ Fun fact: I love exploring new technologies and playing chess.
+- 💬 Ask me about: Python, C, and Javascript
+- 📫 How to reach me: [Email](mailto:amouzali60@gmail.com)
+- ⚡ Fun fact: everybody loves fun facts.
 
 ## GitHub Stats
 
@@ -24,11 +24,10 @@ Welcome to my GitHub profile! I'm AliAmouz, a passionate developer interested in
 Here are some of my notable projects:
 
 - [Password Checker](https://github.com/AliAmouz/password-checker) - A web application to check password strength.
-- [Another Project](https://github.com/AliAmouz/another-project) - Description of another project.
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me via [email](mailto:amouzali60@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-amouz-91622b220/).
 
 ---
 
